@@ -17,6 +17,6 @@ int main()
 			cout << "Correct password";
 			break;
 		}
-		cout << "wrong password..." << endl << endl;
+		cout << "Wrong password..." << endl << endl;
 	}
 }
