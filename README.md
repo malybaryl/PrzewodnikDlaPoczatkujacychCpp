@@ -1,2 +1,4 @@
 # Przewodnik-dla-poczatkujacych-cpp
-Rozwiązania zadań praktycznych z książki pt. "Przewodnik Dla Początkujących C++" autorstwa Alex Allain.
+Moje rozwiązania zadań praktycznych z książki pt. "Przewodnik Dla Początkujących C++" autorstwa Alex Allain.
+
+~Kacper Baryłowicz
