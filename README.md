@@ -6,6 +6,7 @@ Rozdziały;
 3. Interakcja z użytkownikiem. Zapisywanie informacji w zmiennych                                         
 4. Instrukcje warunkowe (if, else if, else)                                                                   
 5. Pętle (for, while, do-while)                                                                             
-6. Funkcje
+6. Funkcje                                                                                                  
+7. Instrukcje switch case oraz typ wyliczeniowy
 
 ~Kacper Baryłowicz
