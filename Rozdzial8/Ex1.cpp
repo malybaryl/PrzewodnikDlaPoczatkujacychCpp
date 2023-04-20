@@ -17,4 +17,5 @@ int main()
 	{
 		cout << "RESZKA";
 	}
+	return 0;
 }
