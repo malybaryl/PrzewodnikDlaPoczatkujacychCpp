@@ -7,6 +7,7 @@ Rozdziały;
 4. Instrukcje warunkowe (if, else if, else)                                                                   
 5. Pętle (for, while, do-while)                                                                             
 6. Funkcje                                                                                                  
-7. Instrukcje switch case oraz typ wyliczeniowy
+7. Instrukcje switch case oraz typ wyliczeniowy                                                             
+8. Dodawanie do programu elementu losowości
 
 ~Kacper Baryłowicz
