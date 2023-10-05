@@ -31,7 +31,11 @@ Rozdziały;
   -Ex2: Zmień program kalkulatora w taki sposób, aby każdy z rodzajów operacji był przeprowadzany w osobnej funkji.                                                                           
   -Ex3: Zmodyfikuj program weryfikujący hasła w taki sposób, aby cała logika sprawdzania znalazła się w odrębnej funkcji.
 
-8. Instrukcje switch case oraz typ wyliczeniowy                                                             
+7. Instrukcje switch case oraz typ wyliczeniowy
+  -Ex1: Zmodyfikuj program obsługujący menu, który napisałeś jako rozwiązanie zadania praktycznego z rozdziału 6. poświęconego funkcjom, w taki sposób, aby program ten korzystał z instrukcji switch-case.
+  -Ex2: Napisz program, który przy pomocy instrukcji swich-cae wyświetli tekst kolędy The Twelve Days of Chrismas.
+  -Ex3: Napisz grę w kółko i krzyżyk, w której dwie osoby grają przeciw sobie.
+                                                                
 9. Dodawanie do programu elementu losowości
 
 ~Kacper Baryłowicz
