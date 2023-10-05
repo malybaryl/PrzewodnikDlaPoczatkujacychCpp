@@ -27,8 +27,8 @@ Rozdziały;
   -Ex7: Napisz program udostępniający opcję sumowania wyników ankiety, w której mogą wystopić trzy różne wartości. Dane wejściowe wprowadzane do programu to pytanie ankietowane oraz trzy możliwe odpowiedzi. Pierwszej odpowiedzi przypisywana jest wartość 1, drugiej 2, a trzeciej 3. Odpowiedzi są sumowane do chwili, w której użytkownik wrowadzi 0 - wtedy program powinien pokazać wynik ankiety. Postaraj się wygenerować wykres słupkowy, pokazujący wyniki przskalowane w taki sposób, aby zmieściły się na ekranie bez względu na liczbę udzielonych odpowiedzi.                                                                                                                          
 
 6. Funkcje                                                                                                  
-  -Ex1: Weź program z menu, który napisałeś wcześniej, i rozbij go na serię wywołań funkcji, która każda odpowiada za jedną pozycję menu. Jako dwie nowe pozycje menu dodaj kalkulator oraz 99 Bottles of Beer.
-  -Ex2: Zmień program kalkulatora w taki sposób, aby każdy z rodzajów operacji był przeprowadzany w osobnej funkji.
+  -Ex1: Weź program z menu, który napisałeś wcześniej, i rozbij go na serię wywołań funkcji, która każda odpowiada za jedną pozycję menu. Jako dwie nowe pozycje menu dodaj kalkulator oraz 99 Bottles of Beer.        
+  -Ex2: Zmień program kalkulatora w taki sposób, aby każdy z rodzajów operacji był przeprowadzany w osobnej funkji.                                                                           
   -Ex3: Zmodyfikuj program weryfikujący hasła w taki sposób, aby cała logika sprawdzania znalazła się w odrębnej funkcji.
 
 8. Instrukcje switch case oraz typ wyliczeniowy                                                             
