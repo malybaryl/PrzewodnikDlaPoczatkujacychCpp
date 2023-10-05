@@ -36,6 +36,21 @@ Rozdziały;
   -Ex2: Napisz program, który przy pomocy instrukcji swich-cae wyświetli tekst kolędy The Twelve Days of Chrismas.
   -Ex3: Napisz grę w kółko i krzyżyk, w której dwie osoby grają przeciw sobie.
                                                                 
-9. Dodawanie do programu elementu losowości
+8. Dodawanie do programu elementu losowości
+  -Ex1: Napisz program symulujący rzut monetą.
+  -Ex2: Napisz program, który wybiera liczbę od 1 do 100 i następnie pozwala użytkownikowi ją odgadnąć. Program powinien podpowiadać, czy liczba wskazana przez użytkownika jest za niska, za wysoka, czy poprawna.
+  -Ex3: Napisz program rozwiązujący zgadywankę z zadania nr.2.
+  -Ex4: Napisz program symulujący "jednorękiego bandytę".
+  -Ex5: Napisz program do gry w pokera.
+
+9. Co zrobić, kiedy... nie wiesz, co robić?
+
+10. Tablice
+  -Ex1: Przekształć kod realizujący sortowanie przez wstawianie w taki sposób, aby działał z tablicami o dowolnych rozmiarach.
+  -Ex2: Napisz program, który wczytuje 50 wartości, po czym w osobnych wierszach wypisuje wartość najmniejszą, największą, średnią oraz każdą z wprowadzonych liczb.
+  -Ex3: Napisz program, który umie stwierdzić, czy tablica jest posortowana. Jeśli nie jest, powinnien ją posortować.
+  -Ex4: Napiszniesz niewielki program do gry w kółko i krzyżyk, który pozwoli dwóm graczom grać przeciwko sobie. Program powinien sprawdzać, czy któryś z graczy wygrał oraz czy plansza zostałą w całości wypełnona.
+  -Ex5: Rozszerz swój program do gry w kółko i krzyżyk o możliwości grania na planszach większych niż 3x3, z tym że do uzyskania wygranej konieczne będzie zdobycia czterech pól.                           
+  
 
 ~Kacper Baryłowicz
