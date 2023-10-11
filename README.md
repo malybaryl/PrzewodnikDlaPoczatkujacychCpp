@@ -1,7 +1,7 @@
 # Przewodnik dla poczatkujacych cpp
 Moje rozwiązania zadań praktycznych z książki pt. "Przewodnik Dla Początkujących C++" autorstwa Alex Allain.
 
-##Rozdziały;                                                                                                     
+## Rozdziały;                                                                                                     
 
 2. Podstawy C++                                                            
   -Ex1: Napisz program, który wyświetli Twoje imię.                                                                                                                    
